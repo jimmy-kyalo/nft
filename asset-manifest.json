@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nft/static/css/main.9cd6ed12.chunk.css",
+    "main.js": "/nft/static/js/main.55e912c8.chunk.js",
+    "main.js.map": "/nft/static/js/main.55e912c8.chunk.js.map",
+    "runtime-main.js": "/nft/static/js/runtime-main.3db05f2b.js",
+    "runtime-main.js.map": "/nft/static/js/runtime-main.3db05f2b.js.map",
+    "static/js/2.6f1d9faf.chunk.js": "/nft/static/js/2.6f1d9faf.chunk.js",
+    "static/js/2.6f1d9faf.chunk.js.map": "/nft/static/js/2.6f1d9faf.chunk.js.map",
+    "index.html": "/nft/index.html",
+    "static/css/main.9cd6ed12.chunk.css.map": "/nft/static/css/main.9cd6ed12.chunk.css.map",
+    "static/js/2.6f1d9faf.chunk.js.LICENSE.txt": "/nft/static/js/2.6f1d9faf.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.a8a75254.svg": "/nft/static/media/twitter-logo.a8a75254.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3db05f2b.js",
+    "static/js/2.6f1d9faf.chunk.js",
+    "static/css/main.9cd6ed12.chunk.css",
+    "static/js/main.55e912c8.chunk.js"
+  ]
+}
